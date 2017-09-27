@@ -1,0 +1,18 @@
+nota: todo en orden alfabetico (todo se hace en la carpeta de estilo)
+pseudoelementos @
+selectores - cambian atributos
+   etiquetas ejem. p,html,div
+   identificador ejem. #id
+   clases ejem. .class(es reusable)
+ media queries
+
+ body{
+ 	
+      background: red;
+      /*#000000;*/
+      /*rgba(34,58,6)*/
+     
+      color: white;
+      width: 1024px;
+
+ }
